@@ -1,2 +1,2 @@
 say-hello:
-    @ecoh "Hello world"
+    @echo "Hello world"
