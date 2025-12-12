@@ -1,2 +1,4 @@
+.PHONY: say-hello
+
 say-hello:
-    @echo "Hello world"
+	@echo "Hello, World!"
